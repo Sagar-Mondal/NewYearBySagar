@@ -1,6 +1,6 @@
 let chars, particles, canvas, ctx, w, h, current;
 let duration = 5000;
-let str = ['HAPPY', 'NEW', 'YEAR' , '2025', 'BY', 'SAGARMONDAL'];
+let str = ['HAPPY', 'NEW', 'YEAR' , '2025', 'FROM', 'SAGARMONDAL'];
 
 init();
 resize();
